@@ -1,2 +1,4 @@
 # Shades_of_Gray-color_constancy_transformation
-This code is a preprocessing for skin lesion classification, but can also be used for other purpose！
+The code is an implementation of `Improving Dermoscopy Image Classification Using Color Constancy`: https://ieeexplore.ieee.org/document/6866131/
+
+
